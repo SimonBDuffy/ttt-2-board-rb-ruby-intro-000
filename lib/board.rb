@@ -1,1 +1,2 @@
 array[board] = variable
+board = ["", "", "", "", "", "", "", "", " "]
